@@ -33,7 +33,7 @@ const productos = [
     id:5,
     nombre:"Campera Rompevientos",
     precio:7500,
-    imagen:"../assets/campera.jpg",
+    imagen:"./assets/campera.jpg",
   },  
   
   {
