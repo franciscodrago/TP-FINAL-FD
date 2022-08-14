@@ -17,7 +17,7 @@ function renderizarProductos() {
       <img src= ${producto.imagen} width="250" height="250"
       <p> producto: ${producto.nombre}</p>
       <p><strong> $ ${producto.precio} </strong></p>
-      <button class= 'btn btn-danger' id='btn${producto.id}'>Comprar</button>
+      <button class= 'btn btn-dark' id='btn${producto.id}'>Comprar</button>
       </li>;
       
   `
